@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Review id="TEST">
+  <ReviewIssue id="JA0VUERU">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2017-11-15 :: 18:07:08:106 CST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2017-11-15 :: 18:07:32:036 CST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>李彬</ReviewerId>
+    <AssignedTo>李彬</AssignedTo>
+    <File line="1">src/edu/jyu/stumgmTest/EntityTest/testUser2.java</File>
+    <Type>item.type.label.other</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>TestByLi</Summary>
+    <Description></Description>
+    <Annotation>TestByLi</Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.closed</Status>
+  </ReviewIssue>
+</Review>

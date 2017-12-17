@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Review id="TEST">
+  <ReviewIssue id="JA0UF73X">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2017-11-15 :: 17:27:18:717 CST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2017-11-15 :: 18:12:58:344 CST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>谭浚伟</ReviewerId>
+    <AssignedTo>谭浚伟</AssignedTo>
+    <File line="18">src/edu/jyu/stumgmTest/EntityTest/testAll.java</File>
+    <Type>item.type.label.other</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>TestRunnerByTAN</Summary>
+    <Description>TestRunner Cannot be resolved</Description>
+    <Annotation>testByTAN</Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.closed</Status>
+  </ReviewIssue>
+</Review>
