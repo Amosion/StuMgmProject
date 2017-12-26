@@ -1,6 +1,6 @@
 ﻿# StuMgmProject
 第九组
-软件工程管理
+软件项目管理
 ```
 141110097 : Amosion
 141110083 : AndroidHense
